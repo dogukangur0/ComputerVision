@@ -16,6 +16,9 @@ Example: python train.py --img 320 --batch 10 --epochs 50 --data data.yaml --wei
 YOLO format: <class> <x_center> <y_center> <width> <height> normalized between 0 and 1.
 
 ![Sample Path](path.PNG)
+
+
+VIDEO SCRENSHOTS
 ------------------------
 ![Sample Result](lion_1.png)
 ------------------------
