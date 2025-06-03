@@ -17,6 +17,6 @@ YOLO format: <class> <x_center> <y_center> <width> <height> normalized between 0
 
 ![Sample Path](path.PNG)
 ------------------------
-![Sample Result](lion_1.PNG)
+![Sample Result](lion_1.png)
 ------------------------
-![Sample Result](lion_2.PNG)
+![Sample Result](lion_2.png)
